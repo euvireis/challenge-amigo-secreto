@@ -44,7 +44,10 @@ Foi desenvolvido com:
 
 🖼️ Prévia do Projeto
 
-👉 Clique [aqui](https://challenge-amigo-secreto-eta-virid.vercel.app/) para acessar o jogo.
+<p align="center">
+  🎮 <a href="https://challenge-amigo-secreto-eta-virid.vercel.app/" target="_blank">Clique aqui para jogar</a>
+</p>
+
 
 
 -----------------------------------------------------------------------------------------------------------------------
