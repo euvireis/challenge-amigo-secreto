@@ -1,7 +1,9 @@
+<h1 align="center">
+  🎁 Challenge - Projeto Jogo | Amigo Secreto
+</h1>
+
 ![Jogo-amigo-secreto-victoria](https://github.com/user-attachments/assets/55b3a37c-2c41-4d90-bc74-932098271688)
 
-
-                                          🎁 Challenge - Projeto Jogo | Amigo Secreto
 
 ✨ Esse projeto nasceu no curso de programação que estou fazendo com a Alura, como um primeiro mergulho no mundo do JavaScript. 
 
@@ -44,7 +46,7 @@ Foi desenvolvido com:
 
 🖼️ Prévia do Projeto
 
-<p align="center">
+
   🎮 <a href="https://challenge-amigo-secreto-eta-virid.vercel.app/" target="_blank">Clique aqui para jogar</a>
 </p>
 
